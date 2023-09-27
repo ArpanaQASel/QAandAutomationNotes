@@ -50,7 +50,7 @@
   </tr>
   <tr>
     <td>File Handling</td>
-    <td><a href="https://github.com/lavishguvi/Automation-Testing-Documentation/tree/main/002-Java-Tutorial-Documentation/010%20Java%20File%20Handling">File Handling</a></td>
+    <td><a href="https://github.com/zen-class/zen-class-automation-testing-documentation/tree/main/002-Java-Tutorial-Documentation/010%20Java%20File%20Handling">File Handling</a></td>
   </tr>
   <tr>
     <td>Collection</td>
