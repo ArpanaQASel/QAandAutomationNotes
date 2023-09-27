@@ -1,6 +1,4 @@
 #### Manual Testing<img src="https://azilen-technologies.s3.us-west-1.amazonaws.com/wp-content/uploads/2023/07/Manual-testing.jpg" alt="Description of the image" width="100" height="50">
-
-
 <!DOCTYPE html>
 <html>
 <head>
