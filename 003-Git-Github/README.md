@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td>Git</td>
-    <td><a href="https://github.com/lavishguvi/Automation-Testing-Documentation/tree/main/003-Git-Github/008%20-%20Git">Git</a></td>
+    <td><a href="https://github.com/zen-class/zen-class-automation-testing-documentation/blob/main/003-Git-Github/008%20-%20Git/001%20-%20Git.md">Git</a></td>
   </tr>
 </table>
 </body>

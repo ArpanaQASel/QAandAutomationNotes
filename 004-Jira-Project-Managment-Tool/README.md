@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td>Jira</td>
-    <td><a href="https://github.com/lavishguvi/Automation-Testing-Documentation/tree/main/004-Jira-Project-Managment-Tool/007-%20Jira">Jira</a></td>
+    <td><a href="https://github.com/zen-class/zen-class-automation-testing-documentation/tree/main/004-Jira-Project-Managment-Tool/007-%20Jira">Jira</a></td>
   </tr>
 </table>
 </body>
