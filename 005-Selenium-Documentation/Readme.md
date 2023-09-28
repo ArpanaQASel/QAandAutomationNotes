@@ -1,5 +1,5 @@
 #### SELENIUM_TUTORIAL
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRr8DCUH4mKr6-GmTXoOmOMkmKG0XXXHQHSFwdKVBkbTEH6-slnUXd_CK6-KLkMrUHPDo&usqp=CAU" alt="Description of the image" width="100%" height="100%">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRr8DCUH4mKr6-GmTXoOmOMkmKG0XXXHQHSFwdKVBkbTEH6-slnUXd_CK6-KLkMrUHPDo&usqp=CAU" alt="Description of the image" width="50%" height="100%">
 
  <!DOCTYPE html>
 <html>
