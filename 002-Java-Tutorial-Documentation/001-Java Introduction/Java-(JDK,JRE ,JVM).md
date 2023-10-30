@@ -11,7 +11,7 @@ As the name formally states, Java Development Kit is a full-time kit that has a 
 
 Here, as we use JDK, we need an environment to run the programs. We use JRE Java Runtime Environment, which provides the least requirements to execute the Java program. It provides the JVM, Core classes, and supporting files.
 
-![Aspose Words a9c602e1-45e6-411d-a109-9c2950836050 010](https://github.com/rhushikesh2000/java/assets/124034778/99902e79-e3ce-4209-bdc4-85255f055475)
+![Aspose Words a9c602e1-45e6-411d-a109-9c2950836050 010](https://github.com/zen-class/zen-class-automation-testing-documentation/blob/main/diagram/Java%20tutorial-images/Java%20development%20Kit%20(JDK).jpg)
 
 **Java Run-time Environment (JRE)**
 ---
