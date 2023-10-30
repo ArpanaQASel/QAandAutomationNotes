@@ -30,7 +30,7 @@ Before understanding the File operations, it is required that we should have kno
 
 A series of data is referred to as a stream. In Java, Stream is classified into two types, i.e., Byte Stream and Character Stream.
 
-![file-operations-in-java](https://github.com/connectaman/Java_Notes_and_Programs/assets/124034778/a55b3109-17a4-457c-9221-d7751f607796)
+![file-operations-in-java](https://github.com/zen-class/zen-class-automation-testing-documentation/blob/main/diagram/Java%20tutorial-images/O%20Streams.jpg)
 
 
 
