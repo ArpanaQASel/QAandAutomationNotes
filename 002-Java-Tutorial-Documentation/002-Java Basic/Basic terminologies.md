@@ -68,7 +68,7 @@ There are TWO types of comments in Java.
 ---
 All Java components require names. Names used for classes, variables, and methods are called identifiers.
 
-![identifier](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/117cb80f-6600-4859-9c9f-ab3954b07c0c)
+![identifier](https://github.com/zen-class/zen-class-automation-testing-documentation/blob/main/diagram/Java%20tutorial-images/example%20of%20identifier.jpg)
 
 
   
