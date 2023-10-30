@@ -14,7 +14,7 @@ Data types in Java are of different sizes and values that can be stored in the v
 1. **Non-Primitive Data Type or Object Data type:** such as String, Array, etc.
 
 
-![Aspose Words d04dd5c6-5058-461f-907f-426e8aa3b525 003](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/77b8982f-9427-488b-9346-c8f8619ed8ca)
+![Aspose Words d04dd5c6-5058-461f-907f-426e8aa3b525 003](https://github.com/zen-class/zen-class-automation-testing-documentation/blob/main/diagram/Java%20tutorial-images/data%20types%20in%20java.jpg)
 
 
 
