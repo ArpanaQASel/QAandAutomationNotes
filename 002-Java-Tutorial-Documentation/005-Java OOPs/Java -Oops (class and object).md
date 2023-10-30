@@ -95,7 +95,7 @@ An object in Java is a basic unit of Object-Oriented Programming and represents 
 - Behavior: It is represented by the methods of an object. It also reflects the response of an object with other objects.
 - Identity: It gives a unique name to an object and enables one object to interact with other objects.
 
-![Classes-and-Objects-in-Java](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/8303a170-ecc8-4cc1-92e5-be4b751e58ba)
+![Classes-and-Objects-in-Java](https://github.com/zen-class/zen-class-automation-testing-documentation/blob/main/diagram/Java%20tutorial-images/Object.jpg)
 
 
 
