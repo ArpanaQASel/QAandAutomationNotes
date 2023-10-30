@@ -1,7 +1,7 @@
 **JAVA Terminology**
 ---
 
-![Aspose Words a9c602e1-45e6-411d-a109-9c2950836050 008](https://github.com/rhushikesh2000/java/assets/124034778/0ffbcda7-1fe5-4a67-b7c0-c7c9823a0183)
+![Aspose Words a9c602e1-45e6-411d-a109-9c2950836050 008](https://github.com/zen-class/zen-class-automation-testing-documentation/blob/main/diagram/Java%20tutorial-images/Java%20terminology.jpg)
 
 
 **Java Development Kit (JDK)**
