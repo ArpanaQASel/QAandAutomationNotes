@@ -48,7 +48,7 @@ String s1 = “ WelCome ”;
 String s2 = “ WelCome ”;
 ~~~
 
-![java-string](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/d5ceadd7-65b0-4d10-b6e7-6c850450d442)
+![java-string](https://github.com/zen-class/zen-class-automation-testing-documentation/blob/main/diagram/Java%20tutorial-images/string%20constant2.jpg)
 
 
 **2. Using new keyword**
