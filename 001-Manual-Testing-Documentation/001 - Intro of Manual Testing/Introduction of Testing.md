@@ -2,7 +2,7 @@
 
 The process of Software Testing is not only at finding faults in the existing software but also at finding measures to improve the software in terms of efficiency, accuracy and usability. It mainly aims at measuring the specification, functionality and performance of a software program or application.
 
-![AS](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/8ae2b757-2769-420a-a1b8-4085e6ade93c)
+![AS](https://github.com/zen-class/zen-class-automation-testing-documentation/blob/main/diagram/manual%20testing-images/Attributes%20of%20testing.jpg)
 
 
 
@@ -18,7 +18,7 @@ The process of Software Testing is not only at finding faults in the existing so
 - Automation testing, which is also known as Test Automation, is when the tester writes scripts and uses another software to test the product. This process involves the automation of a manual process. Automation testing is uses to re-run the test scenarios quickly and repeatedly, that were performed manually in manual testing.
 - Apart  from regression testing, automation testing is also used to test the application from a load, performance and stress point of view. It increases the test coverage, improves accuracy and saves time and money when compared to manual testing.
 
-![ST](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/fcf499c3-815a-4d06-b1d3-72c85470438b)
+![ST](https://github.com/zen-class/zen-class-automation-testing-documentation/blob/main/diagram/manual%20testing-images/Types%20of%20software%20testing.jpg)
 
 
 ## Prerequisite to learn Software Testing: ## 

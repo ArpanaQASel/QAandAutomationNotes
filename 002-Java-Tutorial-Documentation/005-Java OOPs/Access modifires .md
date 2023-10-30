@@ -13,7 +13,7 @@ There are four types of access modifiers available in Java:
 1. Public
 
 
-![Access-Modifiers-in-Java-1-768](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/bfa4c4fa-9f89-4868-a56d-e34d96fc61b6)
+![Access-Modifiers-in-Java-1-768](https://github.com/zen-class/zen-class-automation-testing-documentation/blob/main/diagram/Java%20tutorial-images/access%20modifiers%20in%20java.jpg)
 
 
 **1.Default Access Modifier**

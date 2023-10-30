@@ -46,7 +46,7 @@ Following are some of the most significant uses of JIRA.
 
 - JIRA is very useful in Workflow and Process management.
 
-<img src="https://github.com/LeemaJosephine18/JiraContent/blob/main/jira-introduction.png">
+<img src="https://github.com/zen-class/zen-class-automation-testing-documentation/blob/main/diagram/jira-images/Aspects%20provided%20by%20the%20JIRA.jpg">
 
 ***Projects:*** It is used to manage the defects very effectively.
 Issue: It is used to track and manage the defects/issues.

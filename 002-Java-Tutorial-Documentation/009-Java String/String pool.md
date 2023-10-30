@@ -96,7 +96,7 @@ String str1 = "Hello";
 ~~~
 The following illustration explains the memory allocation for the above declaration:
 
-![Aspose Words 26479d7e-6c73-45cd-9002-f78bf423a012 001](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/e1456d23-c2d3-4e5e-bee9-a685320ac927)
+![Aspose Words 26479d7e-6c73-45cd-9002-f78bf423a012 001](https://github.com/zen-class/zen-class-automation-testing-documentation/blob/main/diagram/Java%20tutorial-images/string%20constant2.jpg)
 
 
 
@@ -144,7 +144,7 @@ The following illustration explains the memory allocation for the above declarat
 
 
 
-![Aspose Words 26479d7e-6c73-45cd-9002-f78bf423a012 004](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/c9395e4f-5c5a-47a7-8b6b-411f331041df)
+![Aspose Words 26479d7e-6c73-45cd-9002-f78bf423a012 004](https://github.com/zen-class/zen-class-automation-testing-documentation/blob/main/diagram/Java%20tutorial-images/string%20constant4.jpg)
 
 
 

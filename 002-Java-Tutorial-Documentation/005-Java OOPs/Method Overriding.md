@@ -22,7 +22,7 @@ In other words, If a subclass provides the specific implementation of the method
    2. The method must have the same parameter as in the parent class.
    3. There must be an IS-A relationship (inheritance).
    
-![](https://static.javatpoint.com/images/java-rules-for-method-overriding.png)
+![](https://github.com/zen-class/zen-class-automation-testing-documentation/blob/main/diagram/Java%20tutorial-images/Rules%20of%20java%20method%20overriding.jpg)
 
 
 

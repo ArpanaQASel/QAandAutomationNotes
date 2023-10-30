@@ -46,7 +46,7 @@ try {
 1. For each try block, there can be zero or more catch blocks, but only one final block.
 
 
-![Aspose Words 79714d40-67ba-4a78-a748-ddf1ce86cc4c 002](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/747ae4cd-97ed-458c-a356-2116167de6eb)
+![Aspose Words 79714d40-67ba-4a78-a748-ddf1ce86cc4c 002](https://github.com/zen-class/zen-class-automation-testing-documentation/blob/main/diagram/Java%20tutorial-images/exception%20object.jpg)
 
 **Example**
 

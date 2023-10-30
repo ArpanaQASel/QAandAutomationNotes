@@ -22,7 +22,7 @@
 We can perform the following operation on a file:
 
 
-![Aspose Words 52a4df6d-637e-4c32-a6e8-725d98197f9b 002](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/5d862d5b-7dbb-4555-a2c7-88e50d1a761f)
+![Aspose Words 52a4df6d-637e-4c32-a6e8-725d98197f9b 002](https://github.com/zen-class/zen-class-automation-testing-documentation/blob/main/diagram/Java%20tutorial-images/file%20operations%20in%20java.jpg)
 
 
 

@@ -22,7 +22,7 @@ Hello Java
 **StringBuffer Constructors**
 
 
-![stringbuffer](https://github.com/connectaman/Java_Notes_and_Programs/assets/124034778/4014d0b7-5424-41b9-bb66-b8eddebef19d)
+![stringbuffer](https://github.com/zen-class/zen-class-automation-testing-documentation/blob/main/diagram/Java%20tutorial-images/string%20buffer.jpg)
 
 **Here are some important features and methods of the StringBuffer class:**
 
