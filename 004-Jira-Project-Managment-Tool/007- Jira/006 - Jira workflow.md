@@ -36,7 +36,7 @@ Release to production Once the product has been developed and tested, then the p
 
 **JIRA Workflow can also be referred to as a defect lifecycle. The defect lifecycle is shown below:**
 
-<img src="https://github.com/LeemaJosephine18/JiraContent/blob/main/jira-workflow2.png">
+<img src="https://github.com/zen-class/zen-class-automation-testing-documentation/blob/main/diagram/jira-images/issue1.jpg">
 
 - Open issue: When the issue is created, then the issue is assigned to the software developer, and they start working on it.
 - In Progress issue: The software developers start working on the issue.
