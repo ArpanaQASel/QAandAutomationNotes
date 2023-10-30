@@ -4,5 +4,5 @@ Use case testing involves testing a software application’s functionality by si
 
 Example:
 
-![UCT](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/3ccfb56a-caa5-4e4e-839b-81a72141bba2)
+![UCT](https://github.com/zen-class/zen-class-automation-testing-documentation/blob/main/diagram/manual%20testing-images/use%20case%20testing.jpg)
 
