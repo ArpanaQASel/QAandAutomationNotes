@@ -29,7 +29,7 @@ for (initialization expr; test expr; update exp)**
 1. The for loop has ended and the flow has gone outside.
 
 **Control flow**
-![Aspose Words 961e2e08-e773-471c-8bd0-982c88ba3fa7 007] (https://github.com/zen-class/zen-class-automation-testing-documentation/blob/main/diagram/Java%20tutorial-images/for%20loop.jpg)
+![Aspose Words 961e2e08-e773-471c-8bd0-982c88ba3fa7 007](https://github.com/zen-class/zen-class-automation-testing-documentation/blob/main/diagram/Java%20tutorial-images/for%20loop.jpg)
 
 **Example**
 
