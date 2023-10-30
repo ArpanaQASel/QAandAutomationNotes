@@ -6,5 +6,5 @@ Example: Consider that we have to select an age between 18-56,Here the Valid inp
 
 Some Other Example:
 
-![EPT](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/0f92bf97-cf80-4b20-b9b4-7cea122a34fa)
+![EPT](https://github.com/zen-class/zen-class-automation-testing-documentation/blob/main/diagram/manual%20testing-images/equivalence%20partitioning.jpg)
 
