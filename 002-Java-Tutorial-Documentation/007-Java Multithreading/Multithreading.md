@@ -4,7 +4,7 @@
 
 Multithreading is a Java feature that allows concurrent execution of two or more parts of a program for maximum utilization of CPU. Each part of such program is called a thread. So, threads are light-weight processes within a process.
 
-![1_-L96rWYPxqdf8z-68eFjkg](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/e9464202-05d8-49bf-bd94-a94a32220f85)
+![1_-L96rWYPxqdf8z-68eFjkg](https://github.com/zen-class/zen-class-automation-testing-documentation/blob/main/diagram/Java%20tutorial-images/JVM3.jpg)
 
 
 **Advantages of Java Multithreading**
