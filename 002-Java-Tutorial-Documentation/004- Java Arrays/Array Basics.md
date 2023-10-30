@@ -28,7 +28,7 @@ There are two types of arrays in Java:
   2.  Multi dimensional array in Java
 
 
-![Types-of-Array-in-Java](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/124034778/44fd6d9f-e5b5-4fb1-bc3c-532698c40742)
+![Types-of-Array-in-Java](https://github.com/zen-class/zen-class-automation-testing-documentation/blob/main/diagram/Java%20tutorial-images/types%20of%20arrays%20in%20java.jpg)
 
 
 **Advantages of using Java arrays**
