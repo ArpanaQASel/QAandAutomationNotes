@@ -34,7 +34,7 @@ while (test\_expression);
 
 **Control Flow**
 
-![Aspose Words 961e2e08-e773-471c-8bd0-982c88ba3fa7 009](https://github.com/rhushikesh2000/Java_tutorial/assets/124034778/4b23f694-1465-4327-a298-17b096852576)
+![Aspose Words 961e2e08-e773-471c-8bd0-982c88ba3fa7 009](https://github.com/zen-class/zen-class-automation-testing-documentation/blob/main/diagram/Java%20tutorial-images/Do%20while%20loop%20control%20flow.jpg)
 
 **Example**
 
