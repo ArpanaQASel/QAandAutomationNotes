@@ -4,4 +4,4 @@ Boundary value analysis is based on testing the boundary values of valid and inv
 
 Example :
 
-![BVT](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/ef3f674b-0c14-4a71-a088-a0bcc4c27749)
+![BVT](https://github.com/zen-class/zen-class-automation-testing-documentation/blob/main/diagram/manual%20testing-images/Boundary%20value%20testing.jpg)
