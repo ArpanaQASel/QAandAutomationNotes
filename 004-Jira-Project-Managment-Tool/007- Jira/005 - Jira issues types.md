@@ -4,7 +4,7 @@ JIRA application can be used to break the pieces of work into issues. Issues can
 
 **There are three types of default Jira issue types that come with the JIRA software:**
 
-<img src="https://github.com/LeemaJosephine18/JiraContent/blob/main/jira-issue-types.png">
+<img src="https://github.com/zen-class/zen-class-automation-testing-documentation/blob/main/diagram/jira-images/issue%20types.jpg">
 
 - Jira Core (business projects) issue types
 - Jira Software (software projects) issue types
