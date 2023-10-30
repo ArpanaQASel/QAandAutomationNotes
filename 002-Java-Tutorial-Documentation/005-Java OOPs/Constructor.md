@@ -37,7 +37,7 @@ There are two types of constructors in Java:
    
 ------
 
-![](https://static.javatpoint.com/images/core/java-constructor.png)
+![](https://github.com/zen-class/zen-class-automation-testing-documentation/blob/main/diagram/Java%20tutorial-images/types%20of%20java%20constructors.jpg)
 
 ----
 
