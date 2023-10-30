@@ -1,4 +1,5 @@
-#### SELENIUM_TUTORIAL<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/2560px-Selenium_logo.svg.png" alt="Description of the image" width="100" height="50">
+#### SELENIUM_TUTORIAL
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRr8DCUH4mKr6-GmTXoOmOMkmKG0XXXHQHSFwdKVBkbTEH6-slnUXd_CK6-KLkMrUHPDo&usqp=CAU" alt="Description of the image" width="50%" height="100%">
 
  <!DOCTYPE html>
 <html>
