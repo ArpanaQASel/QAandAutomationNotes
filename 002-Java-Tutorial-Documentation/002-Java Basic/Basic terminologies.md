@@ -24,7 +24,7 @@ public static void main(String[] args)
 
   {
 
-        System.out.println("welcome to GUVI");
+        System.out.println("welcome to Selenium");
 
     }
 
