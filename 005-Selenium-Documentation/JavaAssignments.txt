@@ -1,0 +1,3 @@
+Java basics Exercises and Solutions for practice
+
+https://www.w3resource.com/java-exercises/basic/index.php
